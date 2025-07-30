@@ -1,6 +1,6 @@
 # 🌤️ Weather App - Flutter
 
-A clean and modern Weather App built using **Flutter** and the **OpenWeatherMap API**, inspired by the YouTube tutorial by [Rivaan Ranavat](https://www.youtube.com/@RivaanRanavat).
+A clean and modern Weather App built using **Flutter** and the **OpenWeatherMap API**.
 
 
 
